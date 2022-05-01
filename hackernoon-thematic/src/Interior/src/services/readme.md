@@ -1,0 +1,1 @@
+Here i want to keep simple code like time/date/username, etc.
