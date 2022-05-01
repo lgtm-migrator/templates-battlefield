@@ -97,7 +97,7 @@
     "rollup-plugin-postcss": "4.0.1",
     "sass": "1.42.1",
     "sass-loader": "12.2.0",
-    "semantic-release": "18.0.0",
+    "semantic-release": "18.0.1",
     "source-map-loader": "3.0.0",
     "style-loader": "3.3.0",
     "travis-deploy-once": "5.0.11",
